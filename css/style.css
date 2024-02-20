@@ -501,3 +501,67 @@ h6,
     padding-right: 0;
     border-right: none;
 }
+
+/* semedi */
+
+/* Services */
+.services-area.services-style-four {
+    margin-bottom: 120px;
+  }
+
+  .services-style-four .item:hover {
+    box-shadow: 0 15px 50px 0 rgba(0, 0, 0, 0.2); /* Adjust box shadow for hover effect */
+    transform: translateY(-5px); /* Adjust to lift the item on hover */
+  }
+  
+  
+  .services-style-four .item {
+    box-shadow: 0 10px 43px 0 rgb(109 125 145 / 14%);
+    background: rgba(255, 255, 255, 0.8);
+    padding: 60px 37px;
+    border-radius: 8px;
+  }
+  
+  .services-style-four {
+    margin-bottom: 30px;
+  }
+  
+  .services-style-four .item i {
+    display: inline-block;
+    font-size: 60px;
+    color: #232323;
+    margin-bottom: 30px;
+  }
+  
+  .services-style-four .item h4 {
+    font-weight: 900;
+  }
+  
+  .services-style-four .item p {
+    margin: 0;
+  }
+  
+  .services-style-four:first-child i {
+    color: #fa1734;
+  }
+  
+  .services-style-four:nth-child(2n) i {
+    color: #00c3b7;
+  }
+  
+  .services-style-four:nth-child(3n) i {
+    color: #fc0;
+  }
+  
+  .services-style-four:nth-child(4n) i {
+    color: #0554f2;
+  }
+  
+  .services-style-four:nth-child(5n) i {
+    color: #03ff7f;
+  }
+  
+  .services-style-four:nth-child(6n) i {
+    color: #0554f2;
+  }
+  
